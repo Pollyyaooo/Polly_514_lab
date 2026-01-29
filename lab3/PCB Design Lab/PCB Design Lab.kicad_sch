@@ -3529,7 +3529,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1µF"
+		(property "Value" "1uF"
 			(at 64.77 53.3399 0)
 			(effects
 				(font
@@ -3875,7 +3875,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LSM6DSOXTR:PQFN50P250X300X86-14N"
+		(property "Footprint" "LSM6DSOX:PQFN50P250X300X86-14N"
 			(at 97.79 134.62 0)
 			(effects
 				(font
@@ -4557,7 +4557,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TPS79301DBVR:SOT95P280X145-6N"
+		(property "Footprint" "TPS79301:SOT95P280X145-6N"
 			(at 93.98 55.88 0)
 			(effects
 				(font
@@ -4903,7 +4903,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "2.2µF"
+		(property "Value" "2.2uF"
 			(at 140.97 53.3399 0)
 			(effects
 				(font
@@ -5116,7 +5116,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.01µF"
+		(property "Value" "0.01uF"
 			(at 73.66 60.9599 0)
 			(effects
 				(font
