@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "LSM6DSOX")(type "KiCad")(uri "${KIPRJMOD}/footprints/LSM6DSOX.pretty")(options "")(descr ""))
   (lib (name "TPS79301")(type "KiCad")(uri "${KIPRJMOD}/footprints/TPS79301.pretty")(options "")(descr ""))
+  (lib (name "GIX_ESP32")(type "KiCad")(uri "/Users/yaoyitong/Documents/Pollyyaooo-Polly_514_Final/kicad_libs/XIAO_ESP32/GIX_ESP32.pretty")(options "")(descr ""))
 )
