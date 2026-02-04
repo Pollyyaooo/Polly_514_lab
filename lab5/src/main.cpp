@@ -21,7 +21,7 @@ const char* ssid = "UW MPSK";
 const char* password = "qmYFYGCX6mTzEuKb";
 
 /********* Firebase *********/
-#define API_KEY "AIzaSyDNj5sMFZL120f6Z36Ivk2JDV6OZdXcjN8"
+#define API_KEY "MY API KEY HERE"
 #define DATABASE_URL "https://lab5-esp-polly-default-rtdb.firebaseio.com/"
 #define USER_EMAIL "qinling3@uw.edu"
 #define USER_PASSWORD "20030330"
